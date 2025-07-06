@@ -8,8 +8,8 @@ title_separator          : "-"
 name                     : &name "Danislava Marinova"
 description              : &description "personal description"
 url                      : "https://cyrila24.github.io"
-baseurl                  : "/personal"
-repository               : "cyrila24/personal"
+baseurl                  : "/web"
+repository               : "danimarinova/web"
 
 # Site Author
 author:
