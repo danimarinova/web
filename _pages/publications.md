@@ -17,7 +17,7 @@ Cañero Ruiz, Julia & Marinova, Danislava. (2025). "Equal and Non‑transferable
  
 ---
 
-[Fraile, Marta](https://sites.google.com/site/martafrailemaldonado) & Marinova, Dani. 2024. "Closing the Gender Gap in Internal Political Efficacy? Gender Roles and the Masculine Ethos of Politics in Spain." *Political Behavior*, 46(4), 2287–2311. [Open access.](https://link.springer.com/article/10.1007/s11109-024-09918-w) [Replication materials.](/personal/Replication_Fraile_Marinova.zip)
+[Fraile, Marta](https://sites.google.com/site/martafrailemaldonado) & Marinova, Dani. 2024. "Closing the Gender Gap in Internal Political Efficacy? Gender Roles and the Masculine Ethos of Politics in Spain." *Political Behavior*, 46(4), 2287–2311. [Open access.](https://link.springer.com/article/10.1007/s11109-024-09918-w) [Replication materials.](/web/Replication_Fraile_Marinova.zip)
 
 ---
 
