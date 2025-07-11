@@ -11,4 +11,4 @@ I received my Doctorate from the [Department of Political Science at Indiana Uni
 
 On this site you can find information about my research, including recent [publications](/personal/publications/) with replication materials, [ongoing projects](/personal/projects/) and [working papers](/personal/papers/).
 
-If you'd like to get in touch about data or a collaboration, please reach out via [email](mailto:dani.marinova@uab.cat) or connect with me on [Bluesky](https://bsky.app/profile/petroleuse-sbd.bsky.social).
+If you'd like to get in touch about data or a collaboration, please reach out via [email](mailto:dani.marinova@uab.cat).
