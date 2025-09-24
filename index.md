@@ -9,6 +9,6 @@ My research is in the areas of political behavior, gender studies, and, more rec
 
 I received my Doctorate from the [Department of Political Science at Indiana University-Bloomington](https://polisci.indiana.edu/), with a Ph.D. Minor in Psychology. My dissertation, supervised by [Tim Hellwig](https://sites.google.com/view/thellwig/home), was published as an [award-winning book manuscript](https://cses.org/2017/06/23/marinova/) titled *Coping with Complexity: How Voters Adapt to Unstable Parties* (ECPR Press, 2016).
 
-On this site you can find information about my research, including recent [publications](/personal/publications/) with replication materials, [ongoing projects](/personal/projects/) and [working papers](/personal/papers/).
+On this site you can find information about my research, including recent [publications](/pages/publications/) with replication materials, [ongoing projects](/pages/projects/) and [working papers](/pages/papers/).
 
 If you'd like to get in touch about data or a collaboration, please reach out via [email](mailto:dani.marinova@uab.cat).
