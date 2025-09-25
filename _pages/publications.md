@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Below are selected publications from the last few years. For a full list, please see my [CV](/personal/CV.pdf).
+Below are selected publications from the past few years. For a full list, please see my [CV](/personal/CV.pdf).
 
 ---
 
