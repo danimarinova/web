@@ -9,11 +9,11 @@ Below are selected publications from the past few years. For a full list, please
 
 ---
 
-Marinova, Dani & [León, Margarita](https://scholar.google.com/citations?user=vK5kGwgAAAAJ&hl=es). 2025. "Paternity leave take-up in a segmented labor market: A cautionary tale of rapid policy expansion in Spain." *European Journal of Social Policy*.  [DOI](https://doi.org/10.1177/09589287241313). [Pre-print](https://ddd.uab.cat/pub/artpub/2025/307459/joueursoc_a2025iENG.pdf)
+Marinova, Dani & [León, Margarita](https://scholar.google.com/citations?user=vK5kGwgAAAAJ&hl=es). 2025. "Paternity leave take-up in a segmented labor market: A cautionary tale of rapid policy expansion in Spain." *European Journal of Social Policy*, 35(4).  [DOI](https://doi.org/10.1177/09589287241313). [Pre-print]([https://ddd.uab.cat/pub/artpub/2025/307459/joueursoc_a2025iENG.pdf](https://doi.org/10.1177/09589287241313428)
 
 ---
 
-Cañero Ruiz, Julia & Marinova, Danislava. (2025). "Equal and Non‑transferable Entitlement? Preferences Regarding the Parental Leave System in Spain". *Revista Española de Investigaciones Sociológicas*, 190, 61–84.  [Open access](https://reis.cis.es/index.php/reis/article/download/1744/2808/5239)
+Cañero Ruiz, Julia & Marinova, Danislava. 2025. "Equal and Non‑transferable Entitlement? Preferences Regarding the Parental Leave System in Spain". *Revista Española de Investigaciones Sociológicas*, 190, 61–84.  [Open access](https://reis.cis.es/index.php/reis/article/download/1744/2808/5239)
  
 ---
 
