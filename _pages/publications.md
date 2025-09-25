@@ -9,7 +9,7 @@ Below are selected publications from the past few years. For a full list, please
 
 ---
 
-Marinova, Dani & [León, Margarita](https://scholar.google.com/citations?user=vK5kGwgAAAAJ&hl=es). 2025. "Paternity leave take-up in a segmented labor market: A cautionary tale of rapid policy expansion in Spain." *European Journal of Social Policy*, 35(4).  [DOI](https://doi.org/10.1177/09589287241313). [Pre-print]([https://ddd.uab.cat/pub/artpub/2025/307459/joueursoc_a2025iENG.pdf])
+Marinova, Dani & [León, Margarita](https://scholar.google.com/citations?user=vK5kGwgAAAAJ&hl=es). 2025. "Paternity leave take-up in a segmented labor market: A cautionary tale of rapid policy expansion in Spain." *European Journal of Social Policy*, 35(4).  [DOI](https://doi.org/10.1177/09589287241313428). [Pre-print]([https://ddd.uab.cat/pub/artpub/2025/307459/joueursoc_a2025iENG.pdf])
 
 ---
 
