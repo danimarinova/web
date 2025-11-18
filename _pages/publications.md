@@ -9,6 +9,14 @@ Below are selected publications from the past few years. For a full list, please
 
 ---
 
+Marinova, Dani & [Hellwig, Tim](https://sites.google.com/view/thellwig/home) 2025. “Welfare by Design: Public Response to the Distribution of Old Age Pensions.” *European Journal of Political Research*. Forthcoming.
+
+---
+
+ Marinova, Dani. & [Bellón Jiménez, Pedro Manuel.](https://orcid.org/0000-0002-5921-0235) 2025. “Paternity Leave and the Motherhood Penalty: How Within-Couple Inequality Conditions Policy Impact.” *Social Policy & Administration.* Forthcoming.
+
+---
+
 Marinova, Dani & [León, Margarita](https://scholar.google.com/citations?user=vK5kGwgAAAAJ&hl=es). 2025. "Paternity leave take-up in a segmented labor market: A cautionary tale of rapid policy expansion in Spain." *European Journal of Social Policy*, 35(4).  [DOI](https://doi.org/10.1177/09589287241313428). [Pre-print](https://ddd.uab.cat/pub/artpub/2025/307459/joueursoc_a2025iENG.pdf)
 
 ---
