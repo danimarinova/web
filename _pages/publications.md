@@ -19,7 +19,7 @@ A basic premise of research on welfare state spending is that electoral incentiv
 
 ---
 
-Marinova, Dani. & [Bellón Jiménez, Pedro Manuel.](https://orcid.org/0000-0002-5921-0235) 2025. “Paternity Leave and the Motherhood Penalty: How Within-Couple Inequality Conditions Policy Impact.” *Social Policy & Administration.* Forthcoming.
+Marinova, Dani. & [Bellón Jiménez, Pedro Manuel.](https://orcid.org/0000-0002-5921-0235) 2025. “Paternity Leave and the Motherhood Penalty: How Within-Couple Inequality Conditions Policy Impact.” *Social Policy & Administration.* [DOI](http://doi.org/10.1111/spol.70034).
 
 <details>
 <summary>Abstract</summary>
