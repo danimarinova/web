@@ -4,6 +4,8 @@ title: "Research Projects"
 permalink: /projects/
 ---
 
+Feel free to reach out for more information about these projects or related lines of research!
+
 ## Ongoing projects
 
 ### **TANDEM – In tandem or alone? An analysis of the joint vs. solo use of paternity leave entitlements and its impact on gender equality in Spain**
@@ -30,6 +32,3 @@ FAIRLEAVE was a four-year project hosted by the [Institute of Government and Pub
 POLGENDA offers causal evidence on the effectiveness—and potential unintended consequences—of gender-based public policies through a large-scale correspondence study. The project examines whether the extension of paternity leave entitlements affects hiring discrimination against recent and prospective parents, particularly fathers. It also tests whether the presence of registered company equality plans—following the 2021 requirement for Spanish firms to register these plans in the REGCON system—reduces discrimination or moderates the effects of family policies.
 
 The project’s co-PI is [Gabriela de Carvalho](https://www.researchgate.net/profile/Gabriela-De-Carvalho-5).
-
----
-Feel free to reach out for more information about these projects or related lines of research.
