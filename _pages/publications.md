@@ -11,21 +11,9 @@ Below are selected publications from the past few years. For a full list, please
 
 Marinova, Dani & [Hellwig, Tim](https://sites.google.com/view/thellwig/home) 2025. “Welfare by Design: Public Response to the Distribution of Old Age Pensions.” *European Journal of Political Research*. [DOI](https://doi.org/10.1017/S147567652610067X).
 
-<details>
-<summary>Abstract</summary>
-A basic premise of research on welfare state spending is that electoral incentives matter, with voters backing program expansion and opposing retrenchment. However, the evidence supporting this premise is mixed. Departing from previous studies, we argue that these ap-parent null effects arise from an emphasis on the generosity of social benefits rather than their distribution. Shifting attention to the latter, we argue that individual preferences over the allocation of welfare spending depend on their relationship to economic vulnerability. Individuals in secure economic situations support schemes with benefits proportional to con-tributions, while those in more vulnerable positions favour systems based on recipient need. These heterogeneous preferences translate into public evaluations of policymaker perfor-mance, providing a pathway for the electoral connection. We test this argument in two stag-es. First, we use data from the European Social Survey to examine how individual precarity shapes preferences for needs-based versus contributory pensions. Second, we use the Execu-tive Approval Database to assess how composition of pension expenditures and perceptions of debt affect government support across eleven European welfare states from 1986 to 2019. Taken together, results provide evidence consistent with our theoretical expectations. Re-sults highlight the micro-level foundations of policymakers’ electoral incentives and pro-vide a path forward for specifying connections between the allocation of social policy spending and mass politics.
-</details>
-
-
 ---
 
 Marinova, Dani. & [Bellón Jiménez, Pedro Manuel.](https://orcid.org/0000-0002-5921-0235) 2025. “Paternity Leave and the Motherhood Penalty: How Within-Couple Inequality Conditions Policy Impact.” *Social Policy & Administration.* [DOI](http://doi.org/10.1111/spol.70034).
-
-<details>
-<summary>Abstract</summary>
-Motherhood-related labor market penalties remain a major driver of the gender employment gap. Father-specific paternity leave is often promoted as a policy tool to support maternal employment, yet evidence of its effectiveness is mixed. This article examines whether—and under what conditions—paternity leave reduces key dimensions of the motherhood penalty, including the timing of return to work, the terms of labor market reentry, and perceived professional sacrifice. We use original survey data from 1,800 mothers whose children were born before and after Spain’s 2021 paternity leave reform, which granted fathers sixteen weeks of non-transferable leave, the same duration as maternity leave. Regression models show that equal, non-transferable paternity leave does not significantly shorten employment interruptions. The main exception are mothers earning roughly the same as their partners: they are significantly more likely to return earlier to full-time work after the reform and to report fathers’ involvement as facilitator, attesting to the moderating role of intra-household equality on policy effects. However, mothers’ perceptions of professional sacrifice remain largely unchanged after the reform. At least in the short term, father-specific entitlements alone appears insufficient to reduce the motherhood penalty, as its impact is constrained by pre-existing gender inequalities.
-</details>
-
 
 ---
 
