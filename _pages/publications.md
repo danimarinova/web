@@ -9,11 +9,11 @@ Below are selected publications from the past few years. For a full list, please
 
 ---
 
-Marinova, Dani & [Hellwig, Tim](https://sites.google.com/view/thellwig/home) 2025. “Welfare by Design: Public Response to the Distribution of Old Age Pensions.” *European Journal of Political Research*. [DOI](https://doi.org/10.1017/S147567652610067X).
+Marinova, Dani & [Hellwig, Tim](https://sites.google.com/view/thellwig/home) 2025. “Welfare by Design: Public Response to the Distribution of Old Age Pensions.” *European Journal of Political Research*. [Open access](https://doi.org/10.1017/S147567652610067X).[Replication materials](https://doi.org/10.7910/DVN/GTXHFB).
 
 ---
 
-Marinova, Dani. & [Bellón Jiménez, Pedro Manuel.](https://orcid.org/0000-0002-5921-0235) 2025. “Paternity Leave and the Motherhood Penalty: How Within-Couple Inequality Conditions Policy Impact.” *Social Policy & Administration.* [DOI](http://doi.org/10.1111/spol.70034).
+Marinova, Dani. & [Bellón Jiménez, Pedro Manuel.](https://orcid.org/0000-0002-5921-0235) 2025. “Paternity Leave and the Motherhood Penalty: How Within-Couple Inequality Conditions Policy Impact.” *Social Policy & Administration.* [DOI](http://doi.org/10.1111/spol.70034). [Pre-pring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5781082).
 
 ---
 
