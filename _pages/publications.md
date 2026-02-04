@@ -9,7 +9,7 @@ Below are selected publications from the past few years. For a full list, please
 
 ---
 
-Marinova, Dani & [Hellwig, Tim](https://sites.google.com/view/thellwig/home) 2025. “Welfare by Design: Public Response to the Distribution of Old Age Pensions.” *European Journal of Political Research*. Forthcoming.
+Marinova, Dani & [Hellwig, Tim](https://sites.google.com/view/thellwig/home) 2025. “Welfare by Design: Public Response to the Distribution of Old Age Pensions.” *European Journal of Political Research*. [DOI](https://doi.org/10.1017/S147567652610067X).
 
 <details>
 <summary>Abstract</summary>
