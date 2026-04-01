@@ -26,3 +26,10 @@ This manuscript investigates whether equal and non-transferable paternity leave 
 </details>
 
 ---
+
+**Marinova, Dani M. "Involved but Not Responsible: The Evidence on Paternity Leave and Domestic Responsibility."**
+
+<details>
+<summary>Abstract</summary>
+Paternity leave has emerged as a cornerstone of gender equality policy, yet its ability to shift the domestic division of care remains contested. I argue that apparent mixed results reflect a failure to distinguish involvement — the execution of domestic tasks — from responsibility — accountability for care as an ongoing domain. A field that evaluates policy success on involvement criteria alone can register apparent progress — fathers doing more — while leaving the responsibility structure intact, and with it the domestic bottleneck that keeps the gender revolution stalled. Paternity leave is well-designed to shift involvement but structurally limited in shifting responsibility: the responsibility position does not dissolve with a temporary absence. Each pattern in the evidence follows from this distinction: positive effects concentrate in discretionary tasks and fade because responsibility never shifted; null results emerge where responsibility indicators are used; and the limited evidence on solo leave points where the framework predicts — larger and more durable effects when the father must hold the responsibility position without a maternal default. I conclude that the field's central task is not only to measure what fathers do more, but to ask whether the accountability position has shifted — and to study paternity leave alongside the broader leave architectures and complementary policies that make this structurally possible. 
+</details>  
