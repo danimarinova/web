@@ -9,6 +9,15 @@ Below are selected publications from the past few years. For a full list, please
 
 ---
 
+**Marinova, Dani M. & [de Carvalho, Gabriela](https://www.researchgate.net/profile/Gabriela-De-Carvalho-5). "De-penalizing motherhood? Paternity leave and the redistribution of workplace bias."** Forthcoming in *Social Politics*.
+
+<details>
+<summary>Abstract</summary>
+Paternity leave policies aim to increase men's caregiving and reduce employer biases against women. Yet fathers' greater visibility as caregivers may itself generate new workplace bias. We examine how Spain's reform — which equalized paternity with maternity leave — reshaped the gender gap in reported workplace discrimination. Drawing on survey data from 3,950 parents and exploiting variation in leave entitlement across birth cohorts, we find the reform did not narrow the gender gap as intended. Mothers report stable and high discrimination across all cohorts — roughly twice fathers' rate — with no post-reform improvement. Fathers, by contrast, report rising discrimination with longer entitlements, from 9.8% to 17.1% across cohort groups. The gender gap narrows not through mothers' gains but through fathers' losses. The monotonic gradient, flat maternal reports, and permutation-based inference all point to the reform as the driver. Non-transferable paternity leave appears to redistribute rather than eliminate workplace bias.
+</details>  
+
+---
+
 Marinova, Dani & [Hellwig, Tim](https://sites.google.com/view/thellwig/home) 2026. “Welfare by Design: Public Response to the Distribution of Old Age Pensions.” *European Journal of Political Research*. [Open access](https://doi.org/10.1017/S147567652610067X). [Replication materials](https://doi.org/10.7910/DVN/GTXHFB).
 
 ---
