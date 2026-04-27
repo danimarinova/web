@@ -9,15 +9,6 @@ If you're interested in any of the following working papers, please get in touch
 
 ---
 
-**Marinova, Dani M. & [de Carvalho, Gabriela](https://www.researchgate.net/profile/Gabriela-De-Carvalho-5). "De-penalizing motherhood? Paternity leave’s (un)intended effects on job discrimination."**
-
-<details>
-<summary>Abstract</summary>
-Paternity leave policies aim to increase men's caregiving and reduce employer biases against women. Yet fathers' greater visibility as caregivers may itself generate new workplace bias. We examine how Spain's reform — which equalized paternity with maternity leave — reshaped the gender gap in reported workplace discrimination. Drawing on survey data from 3,950 parents and exploiting variation in leave entitlement across birth cohorts, we find the reform did not narrow the gender gap as intended. Mothers report stable and high discrimination across all cohorts — roughly twice fathers' rate — with no post-reform improvement. Fathers, by contrast, report rising discrimination with longer entitlements, from 9.8% to 17.1% across cohort groups. The gender gap narrows not through mothers' gains but through fathers' losses. The monotonic gradient, flat maternal reports, and permutation-based inference all point to the reform as the driver. Non-transferable paternity leave appears to redistribute rather than eliminate workplace bias.
-</details>  
-
----
-
 **[González Motos, Sheila](https://scholar.google.com/citations?user=RCn34NAAAAAJ&hl=en) & Marinova, Dani M. "Equal Leave, Equal Care? Evidence from the 2021 Paternity Leave Reform in Spain."**
 
 <details>
