@@ -11,7 +11,7 @@ Feel free to reach out for more information about these projects or related line
 ### **TANDEM – In tandem or alone? An analysis of the joint vs. solo use of paternity leave entitlements and its impact on gender equality in Spain**
 *Funded in 2025 by the Spanish State Research Agency (Agencia Estatal de Investigación)*
 
-TANDEM investigates whether fathers’ use of paternity leave on their own—rather than simultaneously with mothers—promotes a more equal division of care and reduces gender inequalities in the labor market. The project combines original longitudinal survey data from recent Spanish parents with large-scale survey experiments to track leave use, care practices, employment trajectories, workplace conditions, and gender norms over time. By generating robust, policy-relevant evidence on a largely unexplored form of caregiving, TANDEM addresses key gaps in existing research and informs the design of parental leave policies that foster gender equality and work–family balance.
+TANDEM investigates whether fathers’ use of paternity leave on their own—rather than simultaneously with mothers—promotes a more equal division of care and reduces gender inequalities in the labor market. The project combines four waves of longitudinal survey data from recent Spanish parents with survey experiments to track leave use, care practices, employment trajectories, workplace conditions, and gender norms over time. By generating robust, policy-relevant evidence on a largely unexplored form of caregiving, TANDEM aims to address gaps in existing research and inform the design of parental leave policies that foster gender equality and work–family balance.
 
 ---
 
