@@ -9,7 +9,7 @@ Below are selected publications from the past few years. For a full list, please
 
 ---
 
-Marinova, Dani M. & [de Carvalho, Gabriela](https://www.researchgate.net/profile/Gabriela-De-Carvalho-5). "De-penalizing motherhood? Paternity leave and the redistribution of workplace bias." Forthcoming in *Social Politics*.
+Marinova, Dani M. & [de Carvalho, Gabriela](https://www.researchgate.net/profile/Gabriela-De-Carvalho-5). "De-penalizing motherhood? Paternity leave and the redistribution of workplace bias." Forthcoming in *Social Politics*. [Open access](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6781538).
 
 <details>
 <summary>Abstract</summary>
