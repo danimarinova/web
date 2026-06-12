@@ -27,7 +27,7 @@ The gender gap in political interest persists across European democracies despit
 
 ---  -->
 
-**Marinova, Dani M. "Involved but Not Responsible: Paternity Leave and the Division of Care."**
+**Marinova, Dani M. "Involved but Not Responsible? Paternity Leave and the Division of Care."**
 
 <details>
 <summary>Abstract</summary>
