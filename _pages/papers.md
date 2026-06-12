@@ -18,14 +18,14 @@ This manuscript investigates whether equal and non-transferable paternity leave 
 
 ---
 
-**Marinova, Dani M. "Can Parental Leave Policies Close the Gender Gap in Political Interest? 
+<!-- **Marinova, Dani M. "Can Parental Leave Policies Close the Gender Gap in Political Interest? 
 Cross-National and Panel Evidence from Two Decades of Reform"**
 
 <details>
 <summary>Abstract</summary>
 The gender gap in political interest persists across European democracies despite women's substantial gains in political representation and socioeconomic resources. Prior research shows that this gap is partly driven by parenthood, emerging with early motherhood and persisting over the life course. We test whether parental leave policies may mitigate this penalty through three mechanisms: First, longer leave available to mothers may reduce political interest by weakening labor market attachment, paralleling established effects on employment outcomes. Second, paid maternity leave may sustain the material and temporal resources that underpin women's political engagement during caregiving. Third, through a redistribution mechanism, non-transferable leave for fathers may attenuate the motherhood penalty by increasing fathers' involvement in childcare and fostering more gender-egalitarian attitudes — shifts that could narrow the gap by freeing up women's time and attention for political engagement, reducing men's, or both. We test these mechanisms using ten rounds of the European Social Survey (2004–2023) combined with the European Parental Leave Policy database, leveraging within-country, cohort-based variation across twenty-one democracies, and corroborate our findings using single-country panel data from the United Kingdom and Spain — two settings where major reforms shift maternity and paternity leave respectively. Results show that only expansions in paid leave for mothers reduce the gender gap in political interest; expansions of non-transferable paternity leave, including Spain's equalization of fathers' entitlements with maternity leave, produce no detectable effect on either side of the gap. </details>
 
----
+---  -->
 
 **Marinova, Dani M. "Involved but Not Responsible: Paternity Leave and the Division of Care."**
 
