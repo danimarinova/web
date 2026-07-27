@@ -15,7 +15,10 @@ main:
     url: /publications/
 
   - title: "Working papers"
-    url: /papers/    
+    url: /papers/
+
+  - title: "Supervision"
+    url: /supervision/
     
   - title: "CV"
     url: /CV_Feb2026.pdf
