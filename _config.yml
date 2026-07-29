@@ -3,7 +3,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home"
+title                    : "Dani Marinova"
 title_separator          : "-"
 name                     : &name "Danislava Marinova"
 description              : &description "Political scientist researching gender, labor markets, social policy, paternity leave"
