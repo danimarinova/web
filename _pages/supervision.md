@@ -1,7 +1,7 @@
 ---
 title: "Supervision & Teaching"
 description: "I am currently accepting new PhD students working on gender, inequality, social policy, parental leave, and political representation in Universitat Autònoma de Barcelona (UAB)."
-permalink: /Supervision/
+permalink: /supervision/
 ---
 
 I am currently accepting new PhD students. I welcome applicants drawn to research at the intersection of gender, social policy, and political representation. Students interested in developing strong quantitative training alongside substantive expertise will find a good fit here. I work primarily with quantitative and causal-inference methods: panel data, survey and field experiments, and original data collection.
