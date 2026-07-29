@@ -1,6 +1,6 @@
 ---
 title: "Supervision & Teaching"
-excerpt: "I am currently accepting new PhD students working on gender, social policy, parental leave, and political representation at UAB."
+description: "I am currently accepting new PhD students working on gender, social policy, parental leave, and political representation at UAB."
 ---
 
 I am currently accepting new PhD students. I welcome applicants drawn to research at the intersection of gender, social policy, and political representation. Students interested in developing strong quantitative training alongside substantive expertise will find a good fit here. I work primarily with quantitative and causal-inference methods: panel data, survey and field experiments, and original data collection.
