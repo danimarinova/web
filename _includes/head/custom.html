@@ -2,7 +2,7 @@
 <!-- start custom head snippets -->
 <!-- Basic SEO meta tags -->
 <title>{% if page.title %}{{ page.title }} – {{ site.title }}{% else %}{{ site.title }} – {{ site.description }}{% endif %}</title>
-<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | escape }}{% else %}{{ site.description | escape }}{% endif %}" />
+<meta name="description" content="{% if page.description %}{{ page.description | strip_html | escape }}{% else %}{{ site.description | escape }}{% endif %}" />
 <meta name="author" content="Danislava Marinova" />
 <meta name="keywords" content="political science, gender, labor market, parental leave, social policy, motherhood penalty, party instability, working poverty, PhD supervision, Dani Marinova" />
 <!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
@@ -27,13 +27,13 @@
 <script defer src='https://cdnjs.cloudflare.com/ajax/libs/plotly.js/3.0.1/plotly.min.js'></script>
 <!-- Open Graph & Twitter Card metadata -->
 <meta property="og:title" content="{% if page.title %}{{ page.title }} – Dani Marinova{% else %}Dani Marinova – Political Scientist{% endif %}" />
-<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | escape }}{% else %}Research on gender, labor markets, and social policy.{% endif %}" />
+<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | escape }}{% else %}Research on gender, labor markets, and social policy.{% endif %}" />
 <meta property="og:url" content="https://danimarinova.github.io{{ page.url }}" />
 <meta property="og:type" content="website" />
 <meta property="og:image" content="https://danimarinova.github.io/images/portrait.jpg" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }} – Dani Marinova{% else %}Dani Marinova – Political Scientist{% endif %}" />
-<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | escape }}{% else %}Research on gender, labor markets, and social policy.{% endif %}" />
+<meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | escape }}{% else %}Research on gender, labor markets, and social policy.{% endif %}" />
 <meta name="twitter:image" content="https://danimarinova.github.io/images/portrait.jpg" />
 <!-- Structured data (JSON-LD) for search engines -->
 {% if page.url == "/" or page.url == "/web/" %}
