@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Supervision & Teaching"
 description: "I am currently accepting new PhD students working on gender, inequality, social policy, parental leave, and political representation in Universitat Autònoma de Barcelona (UAB)."
 permalink: /supervision/
