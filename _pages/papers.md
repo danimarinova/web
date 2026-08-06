@@ -9,7 +9,7 @@ If you're interested in any of the following working papers, please get in touch
 
 ---
 
-**Marinova, Dani M., [de Carvalho, Gabriela](https://scholar.google.com/citations?user=4N5F0gIAAAAJ&hl=en) & [González Motos, Sheila](https://scholar.google.com/citations?user=RCn34NAAAAAJ&hl=en) "Do equal, non-transferable parental leave rights change employer behavior? A post-reform correspondence test on job discrimination in Spain."**
+**Marinova, Dani M., [de Carvalho, Gabriela](https://scholar.google.com/citations?user=4N5F0gIAAAAJ&hl=en) & [González Motos, Sheila](https://scholar.google.com/citations?user=RCn34NAAAAAJ&hl=en) "Do equal, non-transferable parental leave rights change employer behavior? A post-reform correspondence test on job discrimination in Spain." [Pre-registration](https://osf.io/mre6p).**
 
 <details>
 <summary>Abstract</summary>
