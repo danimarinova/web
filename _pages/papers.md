@@ -9,6 +9,15 @@ If you're interested in any of the following working papers, please get in touch
 
 ---
 
+**Marinova, Dani M., [de Carvalho, Gabriela](https://scholar.google.com/citations?user=4N5F0gIAAAAJ&hl=en) & [González Motos, Sheila](https://scholar.google.com/citations?user=RCn34NAAAAAJ&hl=en) "Do equal, non-transferable parental leave rights change employer behavior? A post-reform correspondence test on job discrimination in Spain."**
+
+<details>
+<summary>Abstract</summary>
+Statistical discrimination against mothers operates through employers inferring that mothers are less dedicated than workers without children and, more broadly, that women of childbearing age are more likely to take a leave of absence on job-protected maternity leave. A recent Spanish reform equalized the length of non-transferable paternity and maternity leave entitlements and made a portion of each mandatory, in an effort to reduce statistical discrimination against mothers and against women more generally. We test the impact of the reform along both channels, caregiving burden and anticipated leave, by fielding a correspondence experiment in Madrid and Barcelona in 2025-2026. We send 4,413 applications to 1,340 vacancies across nine occupations, using five family configurations designed to vary caregiving burden and anticipated leave, and in part replicate a 2016 pre-reform field experiment whose results serve as our baseline. Results indicate that employers respond to caregiving burden rather than anticipated leave. Candidates who signal imminent fertility are called back at the same rate as candidates signaling none, for both genders. Penalties attach instead to caregiving and are gendered: mothers of one young child and single mothers of two are penalized most, the latter receiving roughly half the callbacks of single fathers. The same pattern governs the order in which employers make contact, with these mothers called back not only less often but later, while fathers retain the small and statistically insignificant advantage reported for them before the reform. Overall, results suggest that the reform equalized the terms on which employers may anticipate leave use among men and women but job discrimination, which attaches to caregiving rather than anticipated leave, remains intact.
+</details>
+
+---
+
 **[González Motos, Sheila](https://scholar.google.com/citations?user=RCn34NAAAAAJ&hl=en) & Marinova, Dani M. "Equal Leave, Equal Care? Evidence from the 2021 Paternity Leave Reform in Spain."**
 
 <details>
